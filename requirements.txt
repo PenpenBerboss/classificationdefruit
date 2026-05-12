@@ -3,3 +3,5 @@ uvicorn[standard]
 numpy
 python-multipart
 tensorflow
+streamlit 
+requests
