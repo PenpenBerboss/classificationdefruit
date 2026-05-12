@@ -1,0 +1,4 @@
+#lien de l'api
+https://model-de-classification-de-fruit.onrender.com/docs
+#lien de l'interface streamlit
+https://uifruit.onrender.com/
